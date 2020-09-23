@@ -26,4 +26,6 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 * AITopics https://aitopics.org/search
 * Towards Data Science https://towardsdatascience.com/
 
-# Quizes
+# Quizzes
+Link to interactive quizes https://pollev.com/shannenang768
+## ![GitHub Logo](./saQRPoll.png)
