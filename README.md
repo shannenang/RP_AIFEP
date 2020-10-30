@@ -3,7 +3,6 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 
 # Instructions
 * Download pdf (presentation deck and activity sheets)
-* Download sample scripts
 * Links to other resources. Save you the typing!
 * Download Training and testing images for activity at https://bit.ly/img_resources. Remember to unzip!
 * You will need Telegram. Download and install on your phone/laptop. https://desktop.telegram.org/
