@@ -1,4 +1,4 @@
-# AIFEP 24 Sep 2020
+# AIFEP 2 Nov 2020
 This repository contains the materials used to conduct CET for AIFEP to be made available to participants 
 
 # Instructions
@@ -27,5 +27,3 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 * Towards Data Science https://towardsdatascience.com/
 
 # Quizzes
-Link to interactive quizes https://pollev.com/shannenang768
-## ![GitHub Logo](./saQRPoll.png)
