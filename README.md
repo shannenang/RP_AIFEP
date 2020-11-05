@@ -27,4 +27,4 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 
 # Quizzes
 *Kahoot
-## ![GitHub Logo](./saQRPoll.png)
+## ![GitHub Logo](./kahoot.png)
