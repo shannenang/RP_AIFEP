@@ -1,4 +1,4 @@
-# AIFEP 2 Nov 2020
+# AIFEP 6 Nov 2020
 This repository contains the materials used to conduct CET for AIFEP to be made available to participants 
 
 # Instructions
