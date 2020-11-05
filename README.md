@@ -26,5 +26,5 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 * Towards Data Science https://towardsdatascience.com/
 
 # Quizzes
-*Kahoot
+* Kahoot
 ## ![GitHub Logo](./kahoot.png)
