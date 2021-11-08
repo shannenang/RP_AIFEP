@@ -1,4 +1,4 @@
-# AIFEP 6 Nov 2020
+# AIFEP 10 Nov 2021
 This repository contains the materials used to conduct CET for AIFEP to be made available to participants 
 
 # Instructions
@@ -14,7 +14,6 @@ This repository contains the materials used to conduct CET for AIFEP to be made 
 * Microsoft Text Analytics https://aidemos.microsoft.com/text-analytics
 * Microsoft Computer Vision https://aidemos.microsoft.com/computer-vision
 * Microsoft Video Indexer https://aidemos.microsoft.com/video-indexer
-* How old do i look? https://how-old.net
 * IBM Tone Analyser http://bit.ly/2TLD0Vb
 * IBM Discovery https://ibm.co/36SOnTN
 * Dialogflow https://dialogflow.com/
